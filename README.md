@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 ***Major:*** *Information Systems and Programming*
 
+
 # Ecole 42 | School 21
 I`m currently study on "School 21" project by Sber in Russia.
+
 ![alcierra's 42 stats](https://badge42.herokuapp.com/api/stats/alcierra)
 
 ### Piscine Results
