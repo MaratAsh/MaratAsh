@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Secondary Education
+```2019-2023``` year
+*Kazan National Research Technical University named after A. N. Tupolev - KAI*
+***Information Technology College***
+
+***Major:*** *Information Systems and Programming*
+
+# Ecole 42 | School 21
+I`m currently study on "School 21" project by Sber in Russia.
+![alcierra's 42 stats](https://badge42.herokuapp.com/api/stats/alcierra)
+
+### Piscine Results
+![alcierra's 42 stats](https://badge42.herokuapp.com/api/stats/alcierra?cursus=C%20Piscine)
