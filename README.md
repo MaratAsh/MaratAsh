@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Secondary Education
 ```2019-2023``` year
+
+
 *Kazan National Research Technical University named after A. N. Tupolev - KAI*
 ***Information Technology College***
 
