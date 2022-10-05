@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Ecole 42 | School 21
 I`m currently study on "School 21" project by Sber in Russia.
 
-![alcierra's 42 stats](https://badge42.herokuapp.com/api/stats/alcierra)
+[![alcierra's 42 stats](https://badge42.vercel.app/api/v2/cl2hrygmw014909jpjvb879ds/stats?cursusId=21&coalitionId=97)](https://github.com/JaeSeoKim/badge42)
 
 ### Piscine Results
-![alcierra's 42 stats](https://badge42.herokuapp.com/api/stats/alcierra?cursus=C%20Piscine)
+[![alcierra's 42 stats](https://badge42.vercel.app/api/v2/cl2hrygmw014909jpjvb879ds/stats?cursusId=21&coalitionId=97)](https://github.com/JaeSeoKim/badge42)
