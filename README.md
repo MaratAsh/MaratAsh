@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 *Kazan National Research Technical University named after A. N. Tupolev - KAI*
-***Information Technology College***
+***College of Information Technologyies***
 
 ***Major:*** *Information Systems and Programming*
 
