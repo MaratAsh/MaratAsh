@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/maratash?theme=unicorn)](https://github.com/MaratAsh/leetcode)
+
 # Secondary Education
 ```2019-2023``` year
 
