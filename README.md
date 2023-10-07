@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/maratash?theme=unicorn)](https://github.com/MaratAsh/leetcode)
-
 # Secondary Education
 ```2019-2023``` year
 
@@ -26,6 +24,8 @@ Here are some ideas to get you started:
 
 ***Major:*** *Information Systems and Programming*
 
+# Leetcode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/maratash?theme=unicorn&ext=heatmap)](https://github.com/MaratAsh/leetcode)
 
 # Ecole 42 | School 21
 I`m currently study on "School 21" project by Sber in Russia.
